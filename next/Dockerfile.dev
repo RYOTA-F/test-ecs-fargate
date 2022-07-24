@@ -1,5 +1,0 @@
-FROM node:16.13
-
-WORKDIR /next
-
-EXPOSE 8080
